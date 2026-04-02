@@ -1,2 +1,2 @@
-# small redirect to discord
-## Demo: discord.kusokmedi.lat
+# Small redirect to discord
+Demo: discord.kusokmedi.lat
